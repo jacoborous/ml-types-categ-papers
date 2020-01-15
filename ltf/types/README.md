@@ -8,7 +8,7 @@ References to type theory material, specifically Martin-Lof's Type Theory and Ho
 * [Collected Works of Martin-Lof](https://github.com/michaelt/martin-lof)
 * [Programming in Martin-Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
-![alt text](MLTT.PNG "Martin-Lof's Type Theory On A Single Page)
+![alt text](https://github.com/jacoborous/ml-types-categ-papers/blob/master/ltf/types/MLTT.PNG "Martin-Lof's Type Theory On A Single Page")
 
 ## Homotopy Type Theory
 * [HoTT Book](https://homotopytypetheory.org/book/)
