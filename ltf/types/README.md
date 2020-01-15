@@ -6,6 +6,9 @@ References to type theory material, specifically Martin-Lof's Type Theory and Ho
 * [Martin-Lof's Intuitionistic Type Theory](http://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf)
 * [Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/~bengt/papers/hlcs.pdf)
 * [Collected Works of Martin-Lof](https://github.com/michaelt/martin-lof)
+* [Programming in Martin-Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
+
+![alt text](MLTT.PNG "Martin-Lof's Type Theory On A Single Page)
 
 ## Homotopy Type Theory
 * [HoTT Book](https://homotopytypetheory.org/book/)
